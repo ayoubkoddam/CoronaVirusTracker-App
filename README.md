@@ -6,6 +6,8 @@ A ReactJS base web application to track the COVID19 virus affected cases numbers
 
 API used: https://covid19.mathdro.id/api
 
+🔗 Link : https://hopeful-elion-6cf4a7.netlify.app/
+
 Setup:
 - run ```npm start```
 
